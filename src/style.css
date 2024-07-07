@@ -1,0 +1,20 @@
+
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  .home-page, .menu-page, .order-page, .payment-page, .notification-page {
+    padding: 20px;
+  }
+  
+  .instructions, .sign-in-form, .menu-items, .order-page, .payment-page, .notification-page {
+    margin-bottom: 20px;
+  }
+  
+  .menu-card {
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin: 10px 0;
+  }
+  
+
